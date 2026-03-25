@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **RahulBhosale424/RahulBhosale424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
