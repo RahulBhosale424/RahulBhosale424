@@ -1,16 +1,27 @@
-# Hi there 👋
+# 👋 Hi, I'm Rahul Bhosale
 
+🎓 BTech IT Student | 💻 Tech Enthusiast | ☁️ Exploring Cloud Computing  
 
-**RahulBhosale424/RahulBhosale424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Pursuing BTech in Information Technology  
+- 📍 Based in Pune, India  
+- 🌱 Currently learning **Cloud Computing & Full-Stack Development**  
+- 💡 Interested in solving real-world problems using technology  
+- 🎯 Goal: To become a skilled **Cloud / DevOps Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- C, C++, Python  
+
+### 🌐 Web Development
+- HTML, CSS, Bootstrap, Tailwind  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Linux  
+- VS Cod
