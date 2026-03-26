@@ -9,7 +9,7 @@
 - 📍 Based in Pune, India  
 - 🌱 Currently learning **Cloud Computing & Full-Stack Development**  
 - 💡 Interested in solving real-world problems using technology  
-- 🎯 Goal: To become a skilled **Cloud / DevOps Engineer**
+
 
 ---
 
